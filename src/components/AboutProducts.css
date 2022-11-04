@@ -1,0 +1,14 @@
+.AboutProducts ul li:before{
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f00c";
+    color: var(--main-color);
+    margin-right: .8rem;
+    
+}
+ li,p, span{
+    font-size: 1.1rem;
+    color: #555;
+}
+h2,h1,h5{
+    color: #43121d;
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+.counters{
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Quicksand';
+    font-weight: 700!important;
+    background-color: var(--main-color);
+    color: white!important;
+
+}
+ul li {
+    list-style:none;
+}
+.counters span ,.counters li ,.counters h5{
+
+    color: white!important;
+}
