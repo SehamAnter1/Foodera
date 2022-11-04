@@ -1,0 +1,25 @@
+.OurStory{
+    background-image: url(../assets/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.OurStory a{
+    color: #43121d;
+    transition: .2s;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+    -ms-transition: .2s;
+    -o-transition: .2s;
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    margin: auto;
+}
+.OurStory i{
+    font-size: 1.8rem;
+    margin-right: .3rem;
+}
+.OurStory h2,.OurStory a:hover{
+    color: var(--main-color);
+}

@@ -1,0 +1,12 @@
+.ExploreFoods .insteadof{
+text-decoration: line-through ;
+}
+.ExploreFoods span{
+ font-weight: bold;
+}
+.ExploreFoods span:not(.insteadof){
+   color: var(--main-color);
+   }
+.ExploreFoods .card{
+    border:none;
+}

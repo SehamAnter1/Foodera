@@ -1,0 +1,17 @@
+.Footer{
+    background-color: var(--main-color);
+    color: white!important;
+}
+.Footer a ,.Footer a:hover,.Footer li{
+    color: white!important;
+    text-decoration: none;
+}
+.Footer a:hover{
+    color: white!important;
+    text-decoration: underline;
+}
+.Footer ul{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+}
