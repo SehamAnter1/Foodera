@@ -1,6 +1,0 @@
-.Overlay{
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(../assets/attach.jpg) no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    color: white;
-}
